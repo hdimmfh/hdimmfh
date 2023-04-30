@@ -1,11 +1,11 @@
 <div align="center">
   <h2> Hello there, fellow _developers! 
-    <img="https://i.imgur.com/U10FAWZ.gif"></h2>
+    <img="https://im4.ezgif.com/tmp/ezgif-4-e2318e4e88.gif"></h2>
 </div>
 
 
 <div align="center" width="50">
-  <img src="https://i.imgur.com/U10FAWZ.gif" width="300"/>
+  <img src="https://im4.ezgif.com/tmp/ezgif-4-e2318e4e88.gif" width="300"/>
 </div>
 
 <div align="center">
