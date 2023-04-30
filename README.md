@@ -1,11 +1,13 @@
 <div align="center">
   <h2> Hello there, fellow _developers! 
-    <img="https://im4.ezgif.com/tmp/ezgif-4-e2318e4e88.gif"></h2>
+    <img="https://user-images.githubusercontent.com/74033655/235372293-7234bc14-475d-47d6-8c2d-3cc1bab4dcd4.gif"></h2>
 </div>
 
 
+
+
 <div align="center" width="50">
-  <img src="https://im4.ezgif.com/tmp/ezgif-4-e2318e4e88.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74033655/235372293-7234bc14-475d-47d6-8c2d-3cc1bab4dcd4.gif" width="300"/>
 </div>
 
 <div align="center">
