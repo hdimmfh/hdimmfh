@@ -1,10 +1,11 @@
 <div align="center">
   <h2> Hello there, fellow _developers! 
-    <img="https://user-images.githubusercontent.com/74033655/235344109-c1492daa-9c9d-467c-b0ab-8a695d34e60f.gif" width="30px"></h2>
+    <img="https://i.imgur.com/U10FAWZ.gif"></h2>
 </div>
 
+
 <div align="center" width="50">
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+  <img src="https://i.imgur.com/U10FAWZ.gif" width="300"/>
 </div>
 
 <div align="center">
